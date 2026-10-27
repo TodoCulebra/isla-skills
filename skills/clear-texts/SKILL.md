@@ -50,11 +50,13 @@ Before:
 After:
 
 ```
-*Three changes in your bookings*
+*Four changes in your bookings*
 
 *Deposit:* we take it when the guest books. Open the booking, then Deposit.
 
 *Weather:* the calendar shows it for each day.
+
+*Return time:* fixed, it shows the right time now.
 
 *Two-day price:* now $90.
 
@@ -70,3 +72,4 @@ Look at tomorrow's bookings and tell me if anything looks wrong.
 - [ ] Ends with one ask
 - [ ] Under 900 characters
 - [ ] Nothing promised that is not live
+- [ ] Every point in the original is still there
