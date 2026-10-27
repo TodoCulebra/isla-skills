@@ -1,0 +1,27 @@
+{
+  "name": "isla-skills",
+  "owner": {
+    "name": "Isla Tech LLC",
+    "email": "info@islatechpr.com"
+  },
+  "metadata": {
+    "description": "The working rules a small island business runs on, as Claude skills",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "isla-skills",
+      "description": "Clear texts, three-sentence emails, the three-visit habit, price before you run, one-tone carousels and a phone-first page check",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/clear-texts",
+        "./skills/three-sentence-email",
+        "./skills/three-visit-habit",
+        "./skills/price-before-you-run",
+        "./skills/one-tone-carousel",
+        "./skills/page-check"
+      ]
+    }
+  ]
+}
