@@ -24,7 +24,7 @@ anyone can use them.
 **Claude Code** (all six at once):
 
 ```
-/plugin marketplace add islatechpr/isla-skills
+/plugin marketplace add TodoCulebra/isla-skills
 /plugin install isla-skills@isla-skills
 ```
 
@@ -75,7 +75,7 @@ para que cualquiera las pueda usar.
 **Claude Code** (las seis a la vez):
 
 ```
-/plugin marketplace add islatechpr/isla-skills
+/plugin marketplace add TodoCulebra/isla-skills
 /plugin install isla-skills@isla-skills
 ```
 
